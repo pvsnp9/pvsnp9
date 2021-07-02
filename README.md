@@ -11,7 +11,7 @@
 
 - 🔗Previous Repo [Codes](https://github.com/tsuyog)
 
-- 👯 I’m looking to collaborate on **Health-tech**
+- 👯 I’m looking to collaborate/work on **Health-tech**
 
 - 💬 Ask me about **ML, DL, Software Engineering, DevOps**
 

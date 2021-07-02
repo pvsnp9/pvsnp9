@@ -3,21 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsnp9&label=Profile%20views&color=0e75b6&style=flat" alt="pvsnp9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvsnp9" alt="pvsnp9" /></a> </p>
-
 - 🔭 I’m currently working on [Modular Network for clinical Data](https://github.com/pvsnp9/RIMs_for_clinical_ML)
 
 - 🌱 I’m currently learning **Modular network, RL, Privacy Preserving ML, Personalized Healthcare System**
 
-- 👯 I’m looking to collaborate on **Any Health-tech**
+- 🏢 Data Science Lab [Lab](https://urdatascience.ca/)
+
+- 🔗Previous Repo [Codes](https://github.com/tsuyog)
+
+- 👯 I’m looking to collaborate on **Health-tech**
 
 - 💬 Ask me about **ML, DL, Software Engineering, DevOps**
-
-- 📫 How to reach me **cs.sarojbasnet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tsuyog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsuyog" height="30" width="40" /></a>
+<a href="https://kaggle.com/tsuyog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tsuyog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

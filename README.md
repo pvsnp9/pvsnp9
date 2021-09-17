@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saroj Basnet</h1>
-<h3 align="center">I am Machine Learning Researcher at Data Science Laboratory, Working on clinical Data. I use Recurrent Models, build custom models, and privacy preserving Machine Learning using Homomorphic Encryption. I love and relish research and development in ML/DL, Software Engineering, and DevOps as my daily routine. I enjoy building tools</h3>
+<h3 align="center">I am Machine Learning Researcher at Data Science Laboratory, Working on clinical Data. I use Recurrent Models, build custom models, and privacy preserving Machine Learning using Homomorphic Encryption. I love and relish research and development in ML/DL, Software Engineering, and DevOps as my daily routine. I enjoy building tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsnp9&label=Profile%20views&color=0e75b6&style=flat" alt="pvsnp9" /> </p>
 

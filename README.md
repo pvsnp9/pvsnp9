@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saroj Basnet</h1>
-<h3 align="center">I am Machine Learning Researcher at Data Science Laboratory, Working on clinical Data. I use Recurrent Models, build custom models, and privacy preserving Machine Learning using Homomorphic Encryption. I love and relish research and development in ML/DL, Software Engineering, and DevOps as my daily routine. I enjoy building tools.</h3>
+<h3 align="center">I am Machine Learning Engineer/Researcher at Data Science Laboratory. I have developed a novel model RIMD (Recurrent independent network with decay) to address challenges in clinical data. I have expertise on ML and DL. Apart from ML, I have been working on Software industry since 2017 where i learnt and developed complex system. I have used open-source tech stak. I love and relish research and development in ML/DL, Software Architect/Engineering, and DevOps as my daily routine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsnp9&label=Profile%20views&color=0e75b6&style=flat" alt="pvsnp9" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🔗Previous Repo [Codes](https://github.com/tsuyog)
 
-- 👯 I’m looking to collaborate/work on **Health-tech**
+- 👯 I’m looking for opportunities on Machine Learning, Deep Learning, Data Science.
 
-- 💬 Ask me about **ML, DL, Software Engineering, DevOps**
+- 💬 Ask me about **ML, DL, System Design, Software Engineering, DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

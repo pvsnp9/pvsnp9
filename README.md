@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saroj Basnet</h1>
-<h3 align="center">I am Machine Learning Engineer/Researcher at Data Science Laboratory. I have developed a novel model RIMD (Recurrent independent network with decay) to address challenges in clinical data. I have expertise on ML and DL. Apart from ML, I have been working on Software industry since 2017 where i learnt and developed complex system. I have used open-source tech stak. I love and relish research and development in ML/DL, Software Architect/Engineering, and DevOps as my daily routine.</h3>
+<h3 align="center">
+Hi, I am T-Shaped Data Scientist / Machine Learning Engineer/Researcher, who has knowledge and experience in Software Engineering, Development and Operations, and System design. I have invested years time to produce a new deep learning model working at Data Science Laboratory. I love talking to data via mathematics and technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsnp9&label=Profile%20views&color=0e75b6&style=flat" alt="pvsnp9" /> </p>
 
-- 🔭 I’m currently working on [Modular Network for clinical Data](https://github.com/pvsnp9/RIMs_for_clinical_ML)
+- 🔭 My Experiment on [Modular Network for clinical Data](https://github.com/pvsnp9/RIMs_for_clinical_ML)
 
-- 🌱 I’m currently learning **Modular network, RL, Privacy Preserving ML, Personalized Healthcare System**
+- 🌱 I’m currently learning and working on **Computer Vision, ML, DS in FInance, and Health Care Domain*
 
 - 🏢 Data Science Lab [Lab](https://urdatascience.ca/)
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saroj Basnet</h1>
 <h3 align="center">
-Hi, I am T-Shaped Data Scientist / Machine Learning Engineer/Researcher, who has knowledge and experience in Software Engineering, Development and Operations, and System design. I have invested years time to produce a new deep learning model working at Data Science Laboratory. I love talking to data via mathematics and technology.</h3>
+Greetings, I am a T-Shaped ML Engineer with extensive expertise in Software Engineering, Development and Operations, and System design. With years of dedicated effort, I have created a cutting-edge deep learning model at a Data Science Laboratory. My passion lies in the fields of ML/DL, Software Architecture/Engineering, and DevOps, which are an integral part of my daily routine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsnp9&label=Profile%20views&color=0e75b6&style=flat" alt="pvsnp9" /> </p>
 

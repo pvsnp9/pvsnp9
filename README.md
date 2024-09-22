@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saroj Basnet</h1>
+<h1 align="center">Hi 👋, I'm Tsuyog Basnet</h1>
 <h4 align="center">
-Greetings, I am a T-Shaped ML Engineer with extensive expertise in Software Engineering, Development and Operations, and System design.
+Greetings, I am a T-Shaped ML Engineer with extensive Software Engineering, Development and Operations, and System design expertise.
 With years of dedicated effort, I have created a cutting-edge Deep Learning model at a Data Science Laboratory. My passion lies in the fields of Data Science and ML </h4>
 
 <!-- and software Architecture/Engineering, especially in Healthcare and Biology  -->

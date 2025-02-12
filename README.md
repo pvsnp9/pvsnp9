@@ -6,15 +6,15 @@
 <!-- and software Architecture/Engineering, especially in Healthcare and Biology  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsnp9&label=Profile%20views&color=0e75b6&style=flat" alt="pvsnp9" /> </p>
 
-- 🔭 My Experiment on [Modular Network for clinical Data](https://github.com/pvsnp9/RIMs_for_clinical_ML)
+<!-- - 🔭 My Experiment on [Modular Network for clinical Data](https://github.com/pvsnp9/RIMs_for_clinical_ML) -->
 
-- 🌱 I’m currently learning and working on **ML, DS, Transformer, Gen AI**
+- 🌱 I’m working on **MMML and RL**
 
-- 🏢 Data Science Lab [Lab](https://urdatascience.ca/)
+<!-- - 🏢 Data Science Lab [Lab](https://urdatascience.ca/) -->
 
-- 🔗Previous Repo [Codes](https://github.com/tsuyog)
+<!-- - 🔗Previous Repo [Codes](https://github.com/tsuyog) -->
 
-- 👯 I’m seeking Machine Learning, Deep Learning, and Data Science opportunities.
+- 👯 I’m open to collaboration and challenging problems.
 
 - 💬 Ask me about **ML, DL, System Design, Software Engineering, DevOps**
 

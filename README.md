@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tsuyog Basnet</h1>
 <h4 align="center">
-Greetings, I am a T-Shaped ML Engineer with extensive Software Engineering, Development and Operations, and System design expertise.
-With years of dedicated effort, I have created a cutting-edge Deep Learning model at a Data Science Laboratory. My passion lies in the fields of Data Science and ML </h4>
+  Understanding different modalities and their interactions to aid in Machine Intelligence.
+</h4>
 
 <!-- and software Architecture/Engineering, especially in Healthcare and Biology  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsnp9&label=Profile%20views&color=0e75b6&style=flat" alt="pvsnp9" /> </p>

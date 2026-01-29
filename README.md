@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tsuyog Basnet</h1>
 <h4 align="center">
-  Understanding different modalities and their interactions to aid in Machine Intelligence.
+  Understanding different modalities and their interactions to preceive and think to aid in Machine Intelligence.
 </h4>
 
 <!-- and software Architecture/Engineering, especially in Healthcare and Biology  -->

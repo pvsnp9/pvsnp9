@@ -8,7 +8,7 @@
 
 <!-- - 🔭 My Experiment on [Modular Network for clinical Data](https://github.com/pvsnp9/RIMs_for_clinical_ML) -->
 
-- 🌱 I’m working on **MMML and RL**
+- 🌱 I’m working on **VLM, VLA and Reasoning**
 
 <!-- - 🏢 Data Science Lab [Lab](https://urdatascience.ca/) -->
 
